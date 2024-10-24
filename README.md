@@ -4,7 +4,7 @@ The first attempt to implement a website on Wordpress
 ![Снимок экрана 2024-10-24 194937](https://github.com/user-attachments/assets/7d0f148a-d7c7-4b76-afbc-8efa9874d581)
 ![Снимок экрана 2024-10-24 194944](https://github.com/user-attachments/assets/6c3d927e-6a15-498c-945a-c6f4d2eb2089)
 ![Снимок экрана 2024-10-24 194954](https://github.com/user-attachments/assets/cc0205ae-c1dc-469e-af1f-c1417e350413)
-![Снимок экрана 2024-10-24 195004](https://github.com/user-attachments/assets/cda63789-7251-495d-87e2-0315659a3152)
+
 ![Снимок экрана 2024-10-24 195014](https://github.com/user-attachments/assets/39e4a9df-835a-465e-9152-1942f3a6acd6)
 
 About us
